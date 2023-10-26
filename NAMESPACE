@@ -1,0 +1,4 @@
+export(tpac, tpacForCollection, tpacForCancer, createGeneSetCollection, getSupportedCancerTypes)
+importFrom("MASS", "fitdistr")
+importFrom("stats", "rnorm", "runif", "median", "pgamma", "var")
+importFrom("data.table", "is.data.table")

@@ -1,0 +1,11 @@
+Changes in TPAC v0.1.0 
+========================
+
+* Version associated with initial bioRxiv version of manuscript.
+
+Changes in TPAC v0.2.0
+========================
+
+* Initial release to CRAN.
+* Only call fitdistr() on non-zero null squared Mahalanobis distances.
+* HPA data moved to TPACData package.

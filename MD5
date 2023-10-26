@@ -1,0 +1,16 @@
+bfae0d82961f80d656e6a6ee5c44de1a *DESCRIPTION
+3dda239bb2d3c171d28061ce502c6d55 *NAMESPACE
+1dcb23d7138d86908f4cd6d5705a0c5a *NEWS
+79bcb6492bc021ad1a24015f34c00045 *R/TPAC.R
+852281b8afada7af0d738bdefe74011e *R/TPACforHPA.R
+8192908d2a6202c9f22458c51c11f099 *build/vignette.rds
+b1ecfc58e5933159e1c0705617804931 *inst/doc/TPAC_liver_hallmark.Rnw
+3ab38286b5d4066556688febc4361397 *inst/doc/TPAC_liver_hallmark.pdf
+40c995054a15c635a8a1d519491c24c5 *man/CreateGeneSetCollection.Rd
+596ea0f5f8b39faa1ef5f217afcde876 *man/GetSupportedCancerTypes.Rd
+f2753eefce3e60d56761cb0cc5ed800a *man/TPAC-package.Rd
+74f33debc50f09273bf44890c31484c2 *man/TPAC.Rd
+d00a0f17ad32239f709217f4be5ed726 *man/TPACForCancer.Rd
+719f8ae469f203aa5981a08c9da1a088 *man/TPACForCollection.Rd
+b1ecfc58e5933159e1c0705617804931 *vignettes/TPAC_liver_hallmark.Rnw
+6a73168e2fa88c4fa8c2908a4c9179fc *vignettes/TPAC_liver_hallmark_tmp.pdf

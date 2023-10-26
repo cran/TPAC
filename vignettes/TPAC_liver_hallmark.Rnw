@@ -1,0 +1,6 @@
+%\VignetteIndexEntry{TCGA liver cancer using MSigDB Hallmark collection example}
+\documentclass{article}
+\usepackage{pdfpages}
+\begin{document}
+\includepdf[pages=-, fitpaper=true]{./TPAC_liver_hallmark_tmp.pdf}
+\end{document}
